@@ -1,0 +1,20 @@
+a- A Lei Geral de Proteção de Dados (LGPD) estabelece diretrizes para o tratamento de dados pessoais por parte das organizações, sejam elas públicas ou privadas. A LGPD deve ser cumprida se uma organização processar conteúdo de pessoas, brasileiras ou não, que estão no território nacional, independentemente de a sede da organização ou o centro de dados dela estarem localizados no Brasil ou no exterior. 
+A LGPD tem um impacto importante nos data centers no Brasil, pois estes devem operar com base nos preceitos da lei. Por exemplo, os data centers devem garantir a proteção física dos ambientes para que a gestão das informações seja segura, e devem investir em aprimorar o monitoramento do ambiente para prevenir e eliminar ameaças virtuais. 
+A LGPD também traz a necessidade de se adotar medidas técnicas de segurança e boas práticas de Data Protection, como análise de vulnerabilidades, adequação e automatização de processos, e digitalização de dados. 
+
+b.1- Formatos de arquivos de dados proprietários:
+1-DOC - formato proprietário de texto
+2-PPT - formato proprietário de apresentação de slides
+3-XLS - planilhas do Microsoft Excel
+Formatos de arquivos de dados abertos:
+1- RDF
+2- PNG
+3- LaTeX
+
+b.2- Os dados públicos podem ter implicações para as empresas, para os cidadãos e para a sociedade em geral: 
+-Para as empresas:
+Os dados públicos podem ser utilizados para a análise de mercado, para a gestão de riscos e para a tomada de decisões estratégicas. Por exemplo, as empresas podem monitorizar registos de patentes e marcas, e verificar movimentações de concorrentes e do mercado. 
+-Para os cidadãos:
+Os dados públicos devem ser tratados de acordo com a finalidade, a boa-fé e o interesse público que justificaram a sua disponibilização. Por exemplo, as organizações podem tratar dados tornados anteriormente públicos pelo titular sem precisar de pedir novo consentimento. No entanto, quando as informações pessoais não são protegidas adequadamente, indivíduos não autorizados podem obter acesso a elas, o que pode resultar em roubo de identidade, fraude financeira e outros tipos de crimes cibernéticos. 
+-Para a sociedade em geral:
+A Lei Geral de Proteção de Dados (LGPD) estabelece um conjunto de normas e princípios que impulsionam a promoção da privacidade, a proteção dos direitos dos cidadãos e a criação de uma cultura de responsabilidade e transparência no tratamento de informações pessoais.

@@ -1,0 +1,15 @@
+1-JavaScript
+É uma linguagem de scripts OOP que é usada para o desenvolvimento front-end e web moderno. Tem bibliotecas populares como React e Angular. 
+2-Python
+É uma linguagem que é considerada fácil de aprender e é usada para tarefas como processamento de dados, ciência de dados e inteligência artificial. Tem uma grande coleção de bibliotecas, como Pandas para análise de dados e Django para desenvolvimento web. 
+3-Go
+É uma linguagem compilada, não interpretada, que é usada para desenvolver servidores web, microsserviços, ferramentas de linha de comando, programas de rede e outras aplicações de alto desempenho. Go é uma boa escolha para ambientes que exigem alta performance e eficiência em cenários de concorrência intensiva.
+
+1-console.log("Hello, World!");
+2-print("Hello, World!")
+3-package main
+import "fmt"
+
+func main() {
+	fmt.Printf("Hello, World!")
+}

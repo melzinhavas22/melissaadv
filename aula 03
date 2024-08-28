@@ -2,6 +2,8 @@ a- A Lei Geral de Proteção de Dados (LGPD) estabelece diretrizes para o tratam
 A LGPD tem um impacto importante nos data centers no Brasil, pois estes devem operar com base nos preceitos da lei. Por exemplo, os data centers devem garantir a proteção física dos ambientes para que a gestão das informações seja segura, e devem investir em aprimorar o monitoramento do ambiente para prevenir e eliminar ameaças virtuais. 
 A LGPD também traz a necessidade de se adotar medidas técnicas de segurança e boas práticas de Data Protection, como análise de vulnerabilidades, adequação e automatização de processos, e digitalização de dados. 
 
+b. A principal diferença entre um formato de arquivo de dados proprietário e um formato aberto é que os formatos proprietários são protegidos por patentes ou direitos de autor, enquanto os formatos abertos não têm limitações para os utilizadores finais
+
 b.1- Formatos de arquivos de dados proprietários:
 1-DOC - formato proprietário de texto
 2-PPT - formato proprietário de apresentação de slides
